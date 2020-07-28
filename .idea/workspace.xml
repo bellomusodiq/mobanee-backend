@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4ff255a3-8bc8-4975-9007-9a2f5a4e93d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobane_foods/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobane_foods/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,8 @@
       <updated>1595680564496</updated>
       <workItem from="1595680568502" duration="3006000" />
       <workItem from="1595852146114" duration="3741000" />
-      <workItem from="1595865178068" duration="5454000" />
+      <workItem from="1595865178068" duration="6214000" />
+      <workItem from="1595883695101" duration="807000" />
     </task>
     <servers />
   </component>
@@ -92,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
